@@ -1,10 +1,27 @@
 # COGS118A Project template
-This is your group repo for your final project for COGS118A
+# Group021-SP23
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+Welcome to the repository for Group021 of COGS118A for the Spring 2023 semester. This repository contains all the resources, code, and data related to our final project, which focuses on the exploration and analysis of Natural Language Processing (NLP).
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
+## Project Overview
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
+Our project aims to identify and address key problems in the functionality and interactions of NLP systems. We are particularly interested in understanding the limitations and potential areas of improvement, especially in terms of handling offensive language and hate speech.
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## Dataset
+
+We are using the "Hate Speech and Offensive Language Dataset" from Kaggle, which comprises Twitter data classified into three categories: hate speech, offensive language, and neither. This dataset will help us understand how well NLP systems can handle and moderate offensive content.
+
+## Repository Structure
+ (in progress)
+- `data/`: This directory contains the dataset we are using for our project.
+- `src/`: This directory contains all the source code for our project.
+- `notebooks/`: This directory contains Jupyter notebooks for exploratory data analysis and model training.
+- `reports/`: This directory contains our project reports and presentations.
+
+## Team Members
+
+- Justin Li
+- Jason Krentsel
+- Jackie Lai
+- Shantelle Serafin
+
